@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite 1.2,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.630s,PASSED
+,,,,,,,
+Test Cases/New Test Case .1.2,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.339s,PASSED
+return null,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.001s,PASSED
+,,,,,,,
+Test Cases/New Test Case .1.2,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.012s,PASSED
+return null,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.001s,PASSED
+,,,,,,,
+Test Cases/New Test Case .1.2,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.009s,PASSED
+return null,,,,2023-08-23 14:54:29,2023-08-23 14:54:29,0.000s,PASSED
